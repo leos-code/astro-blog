@@ -1,11 +1,15 @@
-+++
-title = "linkedin程序技能评估测试题 2022"
-date = "2022-03-13"
-description = "linkedin技能评估测试题 2022"
-tags = [
-    "技能评估测试"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-03-13T00:00:00Z
+title: "linkedin程序技能评估测试题 2022"
+postSlug: skill-assessments-quizzes
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - 技能评估测试
+description: "linkedin技能评估测试题 2022"
+---
 
 # 领英技能评估测试题
 

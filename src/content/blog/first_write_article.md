@@ -1,12 +1,16 @@
-+++
-title = "写文章的第一关"
-date = "2022-02-03"
-description = "写文章的第一关"
-tags = [
-    "md",
-	"效率工具"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-03T00:00:00Z
+title: "写文章的第一关"
+postSlug: first-write-article
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - md
+  - 效率工具
+description: "写文章的第一关"
+---
 
 # 写文章的第一关
 

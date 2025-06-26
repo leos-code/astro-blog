@@ -1,11 +1,15 @@
-+++
-title = "VR一体机体验"
-date = "2022-02-04"
-description = "VR一体机体验"
-tags = [
-    "vr",
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-04T00:00:00Z
+title: "VR一体机体验"
+postSlug: vr-experience
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - vr
+description: "VR一体机体验"
+---
 
 # VR一体机体验
 

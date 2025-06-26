@@ -1,12 +1,15 @@
-+++
-author = "花荣"
-title = "switch 模拟器调研"
-date = "2022-02-02"
-description = "switch模拟器的调研"
-tags = [
-    "switch",
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-02T00:00:00Z
+title: "switch 模拟器调研"
+postSlug: switch-emulator
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - switch
+description: "switch模拟器的调研"
+---
 
 笔者有个日版switch，今天在看steamy上《命令与征服 重绘版》的游戏介绍时，忽然想switch是上是否有这个游戏，在找资料时，发现网上竟然有switch的模拟器，遂整理了以下这个文档
 
@@ -16,7 +19,7 @@ tags = [
 
 # 手机端Switch模拟器
 
-手机端模拟器的名字是”egg ns emulator“，是个国外的公司开发的，这是[官网](https://eggns.wordpress.com/)
+手机端模拟器的名字是"egg ns emulator"，是个国外的公司开发的，这是[官网](https://eggns.wordpress.com/)
 按照官网的介绍就可以成功安装，如果中途安装出现问题，可以在youtube上找相关的视频看一下
 ![egg emulator](https://s2.loli.net/2022/02/03/jzLDiCwMaKZOr8e.png)
 
@@ -26,7 +29,7 @@ egg模拟器在国内叫蛋蛋模拟器，淘宝上有个店铺专门卖这个�
 
 # 电脑端Switch模拟器
 
-电脑端的模拟器的名字是“yuzu”, 这是[官网](https://yuzu-emu.org/)
+电脑端的模拟器的名字是"yuzu", 这是[官网](https://yuzu-emu.org/)
 这个模拟器是个开源项目，支持windows和Linux, github的地址是`https://github.com/yuzu-emu/yuzu`，有18.5k个star，关注度非常高。
 电脑端的模拟器对配置要求也很高，看资料说要玩大游戏的话内存至少要16G，具体我还没尝试过
 ![yuzu](https://s2.loli.net/2022/02/03/eOl43fXAsNLicM5.png)

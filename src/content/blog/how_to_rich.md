@@ -1,11 +1,15 @@
-+++
-title = "如何不靠运气赚钱(4)"
-date = "2022-02-16"
-description = "如何不靠运气赚钱(4)"
-tags = [
-    "挣钱"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-16T00:00:00Z
+title: "如何不靠运气赚钱(4)"
+postSlug: how-to-rich
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - 挣钱
+description: "如何不靠运气赚钱(4)"
+---
 
 # 如何不靠运气赚钱(4)
 

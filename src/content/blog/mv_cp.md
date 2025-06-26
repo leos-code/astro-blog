@@ -1,12 +1,16 @@
-+++
-title = "linux下移动文件或目录用哪个命令"
-date = "2022-07-21"
-description = "linux下移动文件或目录用哪个命令"
-tags = [
-    "mv",
-	"cp"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-07-21T00:00:00Z
+title: "linux下移动文件或目录用哪个命令"
+postSlug: mv-cp
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - mv
+  - cp
+description: "linux下移动文件或目录用哪个命令"
+---
 
 # linux下移动文件或目录用哪个命令
 

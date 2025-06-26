@@ -1,11 +1,17 @@
-+++
-title = "AI开发助手工具大集合"
-date = "2022-02-17"
-description = "AI写代码助理, AI Coding Assistant, AI开发"
-tags = [
-    "AI 写代码"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-17T00:00:00Z
+title: "AI开发助手工具大集合"
+postSlug: ai-coding-assistant
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - AI 写代码
+  - coding
+  - assistant
+description: "AI写代码助理, AI Coding Assistant, AI开发"
+---
 
 # AI开发助手大集合
 

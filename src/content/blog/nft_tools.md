@@ -1,11 +1,15 @@
-+++
-title = "NFT工具"
-date = "2022-03-22"
-description = "NFT工具"
-tags = [
-    "NFT",
-]
-+++
+---
+author: blake
+pubDatetime: 2022-03-22T00:00:00Z
+title: "NFT工具"
+postSlug: nft-tools
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - NFT
+description: "NFT工具"
+---
 
 # NFT 工具汇总
 
@@ -49,7 +53,7 @@ Floor可视化工具 ✅ [](https://www.flips.finance/)[https://www.flips.financ
 
 我认为最快的NFT排名平台，浏览器插件也很好用 ✅ [](https://traitsniper.com/)[https://traitsniper.com/](https://traitsniper.com/)
 
-用web3的方式打开“NFT社交”，看看你朋友买了什么NFT [](https://context.app/)[https://context.app/](https://context.app/)
+用web3的方式打开"NFT社交"，看看你朋友买了什么NFT [](https://context.app/)[https://context.app/](https://context.app/)
 
 NFT二级市场交易热点追踪 [](https://nftnerds.ai/trending)[https://nftnerds.ai/trending](https://nftnerds.ai/trending)
 

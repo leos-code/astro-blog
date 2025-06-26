@@ -1,11 +1,15 @@
-+++
-title = "redis docker-entrypoint.sh executable file not found"
-date = "2022-04-26"
-description = "redis docker-entrypoint.sh: executable file not found in $PATH: unknown"
-tags = [
-    "docker问题"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-04-26T00:00:00Z
+title: "redis docker-entrypoint.sh executable file not found"
+postSlug: docker-redis-problem
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - docker问题
+description: "redis docker-entrypoint.sh: executable file not found in $PATH: unknown"
+---
 
 # 使用docker启动redis服务遇到的一个坑
 

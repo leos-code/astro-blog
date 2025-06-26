@@ -1,11 +1,15 @@
-+++
-title = "ffmpeg lib介绍"
-date = "2022-02-15"
-description = "ffmpeg lib介绍"
-tags = [
-    "ffmpeg"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-15T00:00:00Z
+title: "ffmpeg lib介绍"
+postSlug: ffmpeg-lib-introduce
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - ffmpeg
+description: "ffmpeg lib介绍"
+---
 
 # ffmpeg lib介绍
 

@@ -1,11 +1,15 @@
-+++
-title = "分布式社交平台"
-date = "2022-02-11"
-description = "分布式社交平台"
-tags = [
-    "分布式社交平台"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-02-11T00:00:00Z
+title: "分布式社交平台"
+postSlug: distributed-social-network
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - 分布式社交平台
+description: "分布式社交平台"
+---
 
 # 分布式社交平台
 

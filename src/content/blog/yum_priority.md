@@ -1,11 +1,16 @@
-+++
-title = "安装librdkafka-devel 遇到的yum源优先级问题"
-date = "2022-07-19"
-description = "安装librdkafka-devel 遇到的yum源优先级问题"
-tags = [
-    "yum", "confluent-kafka-go"
-]
-+++
+---
+author: blake
+pubDatetime: 2022-07-19T00:00:00Z
+title: "安装librdkafka-devel 遇到的yum源优先级问题"
+postSlug: yum-priority
+featured: false
+draft: false
+ogImage: ""
+tags:
+  - yum
+  - confluent-kafka-go
+description: "安装librdkafka-devel 遇到的yum源优先级问题"
+---
 
 # 安装librdkafka-devel 遇到的yum源优先级问题
 
